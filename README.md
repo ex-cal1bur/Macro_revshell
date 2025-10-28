@@ -29,5 +29,14 @@ nc -lvnp 4444
 # 4. Copiar macro generada en Word
 
 ```
-## Demo
+## 📝 Demo
 ![Demo](gif.gif)
+
+## 🙏 Créditos
+
+ ### Powercat
+- Creador: @besimorhino
+- Repositorio: [powercat](https://github.com/besimorhino/powercat/blob/master/powercat.ps1)
+
+ ### Macro_revshell
+- Creador: @ex_cal1bur
