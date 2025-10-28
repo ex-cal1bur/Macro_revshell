@@ -27,3 +27,7 @@ python macro_revshell.py
 nc -lvnp 4444
 
 # 4. Copiar macro generada en Word
+
+```
+## Demo
+![Demo](gif.gif)
